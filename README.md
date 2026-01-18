@@ -138,8 +138,8 @@
 
 ## Education
 
-<table class="table" border="0" width="100%">
-  <tr align="center">
-    <td><img width="300" src="https://github.com/anapolikarpova666-oss/about-me/blob/main/assets/Diploma.png/></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/Diploma.png" width="300"/><br/>
+  <em>QA Studio — Quality Assurance Engineering Program</em>
+</p>
+
